@@ -1,1 +1,2 @@
 # EletronAtas
+O EletronAtas é um aplicativo nativo que possui a função de criar atas automaticamente integrado com uma inteligência artificial ou com a possibilidade de se fazer manualmente, o qual ao concluir o processo, gera um arquivo em PDF.
